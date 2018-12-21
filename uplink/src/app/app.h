@@ -36,20 +36,20 @@ class App : public UplinkObject
 
 public :
 
-    char path    [SIZE_APP_PATH];
-    char userpath [SIZE_APP_PATH];
-    char usertmppath [SIZE_APP_PATH]; // Used by the crash reporter to store the current .usr
-    char userretirepath [SIZE_APP_PATH]; // Used to store old agents ( .usr / .tmp )
-    char version [SIZE_APP_VERSION];
-    char type    [SIZE_APP_TYPE];
-    char date    [SIZE_APP_DATE];
-    char title   [SIZE_APP_TITLE];
-    char release [SIZE_APP_RELEASE];          
+	char path    [SIZE_APP_PATH];
+	char userpath [SIZE_APP_PATH];
+	char usertmppath [SIZE_APP_PATH]; // Used by the crash reporter to store the current .usr
+	char userretirepath [SIZE_APP_PATH]; // Used to store old agents ( .usr / .tmp )
+	char version [SIZE_APP_VERSION];
+	char type    [SIZE_APP_TYPE];
+	char date    [SIZE_APP_DATE];
+	char title   [SIZE_APP_TITLE];
+	char release [SIZE_APP_RELEASE];          
 
-    int starttime;
-    bool closed;
+	int starttime;
+	bool closed;
 
-    Options *options;
+	Options *options;
 	Network *network;
 	MainMenu *mainmenu;
 	PhoneDialler *phoneDial;
@@ -60,15 +60,15 @@ public :
 
 public:
 
-    App ();
-    ~App ();
-    
-    void Set ( char *newpath, char *newversion, char *newtype,
+	App ();
+	~App ();
+	
+	void Set ( char *newpath, char *newversion, char *newtype,
 			   char *newdate, char *newtitle );
-    
+	
 	void Initialise ();	
 	void Close ();			// Shuts down the app	
-    bool Closed ();         // True if in the process of shutting down
+	bool Closed ();         // True if in the process of shutting down
 
 	void SetNextLoadGame ( const char *username );       // Set the username to load with the next call to LoadGame
 	void LoadGame ();                                    // Use the username set with SetNextLoadGame
@@ -83,7 +83,7 @@ public:
 	void RegisterPhoneDialler ( PhoneDialler *phoneDiallerScreen );
 	void UnRegisterPhoneDialler ( PhoneDialler *phoneDiallerScreen );
 
-    static void CoreDump ();             
+	static void CoreDump ();             
 
 	// Common functions
 

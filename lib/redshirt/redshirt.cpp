@@ -22,6 +22,7 @@
 #include "mmgr.h"
 
 
+
 const char marker  [] = "REDSHIRT\x0";
 const char marker2 [] = "REDSHRT2\x0";
 const int SIZE_MARKER = 9;

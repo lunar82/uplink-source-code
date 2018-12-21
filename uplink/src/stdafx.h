@@ -1,3 +1,4 @@
+#define _ALLOW_KEYWORD_MACROS
 
 #ifndef __STDAFX_H
 #define __STDAFX_H
@@ -14,9 +15,12 @@
 #include <errno.h>
 
 #ifndef OLD_HEADERS
+#define _ALLOW_KEYWORD_MACROS
+
 #  include <iostream>
 #  include <strstream>
    using namespace std;
+
 #else
 #  include <iostream.h>
 #  include <strstream.h>

@@ -1,0 +1,8 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  llist.cpp
+  darray.cpp
+  btree.cpp
+  Generating Code...
+darray.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+btree.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  Tosser.vcxproj -> D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\lib\tosser\Debug\Tosser.lib

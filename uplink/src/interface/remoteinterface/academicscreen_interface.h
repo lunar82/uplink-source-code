@@ -42,7 +42,7 @@ public:
 	AcademicScreenInterface ();
 	~AcademicScreenInterface ();
 
-    bool EscapeKeyPressed ();
+	bool EscapeKeyPressed ();
 
 	void SetSearchName ( char *newsearchname );
 

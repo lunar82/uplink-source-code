@@ -1,0 +1,8 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  soundgarden_win32.cpp
+  soundgarden_unix.cpp
+  soundgarden_sdlmixer.cpp
+  soundgarden.cpp
+  sgplaylist.cpp
+  Generating Code...
+  Soundgarden.vcxproj -> D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\lib\soundgarden\..\bin\Soundgarden.lib

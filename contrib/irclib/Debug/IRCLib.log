@@ -1,0 +1,10 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  test.cpp
+  socket.cpp
+  winsock.cpp
+  windows.cpp
+  missing.cpp
+  irc.cpp
+  CrossThreadsMessagingDevice.cpp
+  Generating Code...
+  IRCLib.vcxproj -> D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\contrib\irclib\..\bin\IRCLib.lib

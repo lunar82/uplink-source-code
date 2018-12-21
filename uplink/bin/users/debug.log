@@ -1,0 +1,514 @@
+
+
+===============================================
+NEW GAME     0:9, 22/12/2018
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Dec 22 2018 at 00:08:04
+
+Loading uplink options from D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...failed
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+SoundGarden Music Volume: 20
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+SoundGarden Playing Music : D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\temp/temp0.uni
+Loading LAN from data/lans/sample.txt...done
+ECL WARNING : EclRemoveButton called, button does not exist : messagescreen_mailme
+ECL WARNING : EclRemoveButton called, button does not exist : messagescreen_mailme
+ECL WARNING : EclRemoveButton called, button does not exist : caption1 0 0 234.773.0.666
+ECL WARNING : EclRemoveButton called, button does not exist : cancel 1 0
+ECL WARNING : EclRemoveButton called, button does not exist : continue 3 0
+ECL WARNING : EclRemoveButton called, button does not exist : name 0 0 234.773.0.666
+ECL WARNING : EclRemoveButton called, button does not exist : password 0 0 234.773.0.666
+ECL WARNING : EclRemoveButton called, button does not exist : password2 0 0 234.773.0.666
+ECL WARNING : EclRemoveButton called, button does not exist : nametext 0 0 234.773.0.666
+ECL WARNING : EclRemoveButton called, button does not exist : passwordtext 0 0 234.773.0.666
+ECL WARNING : EclRemoveButton called, button does not exist : passwordtext2 0 0 234.773.0.666
+ECL WARNING : EclRemoveButton called, button does not exist : moretext 0 0 234.773.0.666
+ECL WARNING : EclRemoveButton called, button does not exist : continue 33 -1
+Saving profile to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/tescik.tmp...success. Moving profile to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/tescik.usr...success
+ECL WARNING : Tried to register a caption change, could not find button connecting 0 0
+ECL WARNING : EclRemoveButton called, button does not exist : caption1 0 0 234.773.0.666
+ECL WARNING : EclRemoveButton called, button does not exist : continue 34 6
+ECL WARNING : SuperUnHighlight called, button not found : hud_lanview
+ECL WARNING : EclRemoveButton called, button does not exist : connecting 0 0 234.773.0.666
+ECL WARNING : EclRemoveButton called, button does not exist : linksscreen_iptitle
+ECL WARNING : EclRemoveButton called, button does not exist : linksscreen_comptitle
+ECL WARNING : EclRemoveButton called, button does not exist : linksscreen_close
+ECL WARNING : EclRemoveButton called, button does not exist : syscheckUOS_OK_13
+ECL WARNING : EclRemoveButton called, button does not exist : text2 0 0 127.0.0.1
+ECL WARNING : EclRemoveButton called, button does not exist : okbutton 7 0
+ECL WARNING : EclRemoveButton called, button does not exist : caption 0 0 127.0.0.1
+ECL WARNING : EclRemoveButton called, button does not exist : runtutorial 43 0
+ECL WARNING : EclRemoveButton called, button does not exist : dontruntutorial 0 0
+ECL WARNING : SuperUnHighlight called, button not found : hud_lanview
+ECL WARNING : EclRemoveButton called, button does not exist : linksscreen_iptitle
+ECL WARNING : EclRemoveButton called, button does not exist : linksscreen_comptitle
+ECL WARNING : EclRemoveButton called, button does not exist : linksscreen_close
+ECL WARNING : EclRemoveButton called, button does not exist : linksscreen_iptitle
+ECL WARNING : EclRemoveButton called, button does not exist : linksscreen_comptitle
+ECL WARNING : EclRemoveButton called, button does not exist : linksscreen_close
+Saving profile to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/tescik.tmp...success. Moving profile to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/tescik.usr...success
+Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+
+
+===============================================
+NEW GAME     0:12, 22/12/2018
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Dec 22 2018 at 00:08:04
+
+Loading uplink options from D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+SoundGarden Music Volume: 20
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+SoundGarden Playing Music : D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\temp/temp0.uni
+Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+
+
+===============================================
+NEW GAME     0:12, 22/12/2018
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Dec 22 2018 at 00:08:04
+
+Loading uplink options from D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+SoundGarden Music Volume: 20
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+SoundGarden Playing Music : D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\temp/temp0.uni
+Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+
+
+===============================================
+NEW GAME     0:12, 22/12/2018
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Dec 22 2018 at 00:08:04
+
+Loading uplink options from D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+SoundGarden Music Volume: 20
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+SoundGarden Playing Music : D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\temp/temp0.uni
+Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+
+
+===============================================
+NEW GAME     0:13, 22/12/2018
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Dec 22 2018 at 00:08:04
+
+Loading uplink options from D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+SoundGarden Music Volume: 20
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+SoundGarden Playing Music : D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\temp/temp0.uni
+Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+
+
+===============================================
+NEW GAME     0:13, 22/12/2018
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Dec 22 2018 at 00:08:04
+
+Loading uplink options from D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+SoundGarden Music Volume: 20
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+SoundGarden Playing Music : D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\temp/temp0.uni
+Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+
+
+===============================================
+NEW GAME     0:14, 22/12/2018
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Dec 22 2018 at 00:08:04
+
+Loading uplink options from D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+SoundGarden Music Volume: 20
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+SoundGarden Playing Music : D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\temp/temp0.uni
+Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+
+
+===============================================
+NEW GAME     0:17, 22/12/2018
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Dec 22 2018 at 00:08:04
+
+Loading uplink options from D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+SoundGarden Music Volume: 20
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+SoundGarden Playing Music : D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\temp/temp0.uni
+Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+
+
+===============================================
+NEW GAME     0:18, 22/12/2018
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Dec 22 2018 at 00:08:04
+
+Loading uplink options from D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+SoundGarden Music Volume: 20
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+SoundGarden Playing Music : D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\temp/temp0.uni
+Saving uplink options to D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\users/options...success

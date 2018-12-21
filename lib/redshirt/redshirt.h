@@ -8,6 +8,7 @@
 
   */
 
+#pragma warning(default : 4005)
 
 #ifndef _included_redshirt_h
 #define _included_redshirt_h

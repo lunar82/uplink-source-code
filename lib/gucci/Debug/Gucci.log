@@ -1,0 +1,9 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  resize_win32.cpp
+  resize_unix.cpp
+  image.cpp
+  gucci_sdl.cpp
+  gucci_glut.cpp
+  gucci.cpp
+  Generating Code...
+  Gucci.vcxproj -> D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\lib\gucci\..\bin\Gucci.lib

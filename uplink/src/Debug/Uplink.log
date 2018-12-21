@@ -1,0 +1,38 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  stdafx.cpp
+cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  world.cpp
+  rating.cpp
+  player.cpp
+  person.cpp
+  gatewaydef.cpp
+d:\programistyczne\! git\lunar82_repo\uplink-source-code\uplink\src\world\computer\gatewaydef.cpp(331): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'DArray<GatewayDefLocation *> *'
+  agent.cpp
+  uplink.cpp
+  login_interface.cpp
+  scrollbox.cpp
+  scriptlibrary.cpp
+  gameobituary.cpp
+  game.cpp
+  data.cpp
+  uplinkobject.cpp
+  serialise.cpp
+d:\programistyczne\! git\lunar82_repo\uplink-source-code\uplink\src\app\serialise.cpp(114): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'BTree<UplinkObject *> *'
+d:\programistyczne\! git\lunar82_repo\uplink-source-code\uplink\src\app\serialise.cpp(262): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'BTree<char *> *'
+d:\programistyczne\! git\lunar82_repo\uplink-source-code\uplink\src\app\serialise.cpp(381): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'LList<UplinkObject *> *'
+d:\programistyczne\! git\lunar82_repo\uplink-source-code\uplink\src\app\serialise.cpp(570): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'DArray<UplinkObject *> *'
+d:\programistyczne\! git\lunar82_repo\uplink-source-code\uplink\src\app\serialise.cpp(744): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'DArray<int> *'
+  opengl_interface.cpp
+  opengl.cpp
+  miscutils.cpp
+  dos2unix.cpp
+  app.cpp
+  Generating Code...
+  Compiling...
+  MiniVersion.cpp
+  automatic link to VERSION.LIB
+  GetWinVer.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+freetype.lib(freetype.obj) : warning LNK4099: PDB 'vc60.pdb' was not found with 'freetype.lib(freetype.obj)' or at 'D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\bin\vc60.pdb'; linking object as if no debug info
+  Uplink.vcxproj -> D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\uplink\src\..\bin\Uplink.exe

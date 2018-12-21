@@ -1,5 +1,6 @@
 #ifndef _RAR_OS_
 #define _RAR_OS_
+#define _ALLOW_KEYWORD_MACROS
 
 #include "raros.h"
 

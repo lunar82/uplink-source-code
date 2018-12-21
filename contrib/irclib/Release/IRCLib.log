@@ -1,0 +1,6 @@
+﻿  CrossThreadsMessagingDevice.cpp
+  irc.cpp
+  socket.cpp
+  test.cpp
+  Generating Code...
+  IRCLib.vcxproj -> D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\contrib\irclib\..\bin\IRCLib.lib

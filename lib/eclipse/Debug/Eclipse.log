@@ -1,0 +1,6 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  eclipse.cpp
+  button.cpp
+  animation.cpp
+  Generating Code...
+  Eclipse.vcxproj -> D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\lib\eclipse\..\bin\Eclipse.lib

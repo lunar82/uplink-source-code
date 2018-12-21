@@ -1,0 +1,7 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  vanbakel.cpp
+  taskwrapper.cpp
+  task.cpp
+  interface.cpp
+  Generating Code...
+  Vanbakel.vcxproj -> D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\lib\vanbakel\..\bin\Vanbakel.lib

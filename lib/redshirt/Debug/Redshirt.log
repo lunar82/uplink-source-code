@@ -1,0 +1,16 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  redshirt.cpp
+d:\programistyczne\! git\lunar82_repo\uplink-source-code\lib\redshirt\redshirt.cpp(307): warning C4459: declaration of 'tempfilename' hides global declaration
+  d:\programistyczne\! git\lunar82_repo\uplink-source-code\lib\redshirt\redshirt.cpp(32): note: see declaration of 'tempfilename'
+d:\programistyczne\! git\lunar82_repo\uplink-source-code\lib\redshirt\redshirt.cpp(397): warning C4189: 'result': local variable is initialized but not referenced
+d:\programistyczne\! git\lunar82_repo\uplink-source-code\lib\redshirt\redshirt.cpp(553): warning C4189: 'result': local variable is initialized but not referenced
+d:\programistyczne\! git\lunar82_repo\uplink-source-code\lib\redshirt\redshirt.cpp(645): warning C4189: 'result': local variable is initialized but not referenced
+  hash.cpp
+d:\programistyczne\! git\lunar82_repo\uplink-source-code\contrib\unrar\rawread.h(28): warning C4458: declaration of 'Crypt' hides class member
+  d:\programistyczne\! git\lunar82_repo\uplink-source-code\contrib\unrar\rawread.h(12): note: see declaration of 'RawRead::Crypt'
+d:\programistyczne\! git\lunar82_repo\uplink-source-code\contrib\unrar\model.h(21): warning C4244: '=': conversion from 'int' to 'unsigned short', possible loss of data
+d:\programistyczne\! git\lunar82_repo\uplink-source-code\contrib\unrar\model.h(27): warning C4244: '-=': conversion from 'unsigned int' to 'unsigned short', possible loss of data
+d:\programistyczne\! git\lunar82_repo\uplink-source-code\contrib\unrar\unpack.h(202): warning C4458: declaration of 'Suspended' hides class member
+  d:\programistyczne\! git\lunar82_repo\uplink-source-code\contrib\unrar\unpack.h(151): note: see declaration of 'Unpack::Suspended'
+  Generating Code...
+  Redshirt.vcxproj -> D:\Programistyczne\! Git\lunar82_repo\uplink-source-code\lib\redshirt\..\bin\Redshirt.lib
